@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kmiones/static/css/main.a617e044.chunk.css",
+    "main.js": "/kmiones/static/js/main.9936e98f.chunk.js",
+    "main.js.map": "/kmiones/static/js/main.9936e98f.chunk.js.map",
+    "runtime-main.js": "/kmiones/static/js/runtime-main.c645d26c.js",
+    "runtime-main.js.map": "/kmiones/static/js/runtime-main.c645d26c.js.map",
+    "static/js/2.f39f171b.chunk.js": "/kmiones/static/js/2.f39f171b.chunk.js",
+    "static/js/2.f39f171b.chunk.js.map": "/kmiones/static/js/2.f39f171b.chunk.js.map",
+    "static/js/3.5d6a44d6.chunk.js": "/kmiones/static/js/3.5d6a44d6.chunk.js",
+    "static/js/3.5d6a44d6.chunk.js.map": "/kmiones/static/js/3.5d6a44d6.chunk.js.map",
+    "index.html": "/kmiones/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/kmiones/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f39f171b.chunk.js.LICENSE.txt": "/kmiones/static/js/2.f39f171b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kmiones/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c645d26c.js",
+    "static/js/2.f39f171b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9936e98f.chunk.js"
+  ]
+}
